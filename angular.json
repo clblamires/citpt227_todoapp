@@ -3,6 +3,7 @@
   "version": 1,
   "defaultProject": "app",
   "newProjectRoot": "projects",
+  "projects": {
     "app": {
       "root": "",
       "sourceRoot": "src",
